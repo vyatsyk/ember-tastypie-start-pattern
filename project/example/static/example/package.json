@@ -1,0 +1,11 @@
+{
+    "name": "picture_store",
+    "version": "0.1.0",
+    "devDependencies": {
+        "grunt": "*",
+        "bower": "*",
+        "grunt-contrib-concat": "*",
+        "grunt-contrib-watch": "*",
+        "grunt-ember-templates": "~0.4.18"
+    }
+}
